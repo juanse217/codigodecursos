@@ -11,5 +11,6 @@ un repositorio donde pretendo subir algunas de las cosas que hago en cursos de p
 
 * cómo usar la terminal 
 * pero me falta mucho por aprender.
+*pero no importa, voy a seguir practicando para poder trabajar de esto uwu.
 
 *** sólo te recomiendo platzi, no sólo eso, que aprendas en casa, puedes mejorar muchísimo. ***
