@@ -17,4 +17,5 @@ function crear_binario(){
      exit= exit1 + exit2
      document.write (exit)
 }
+console.log("hola, cómo estás " + exit);
 
