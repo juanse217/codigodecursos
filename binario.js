@@ -19,3 +19,5 @@ function crear_binario(){
 }
 console.log("hola, cómo estás " + exit);
 
+//que desilusionante uqe no hacya sido capaz de programar esto bien Unu 
+
