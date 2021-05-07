@@ -16,8 +16,11 @@ function crear_binario(){
     }
      exit= exit1 + exit2
      document.write (exit)
+
+     console.log("hola, cómo estás " + exit);
 }
-console.log("hola, cómo estás " + exit);
+
 
 //que desilusionante uqe no hacya sido capaz de programar esto bien Unu 
 
+crear_binario();
