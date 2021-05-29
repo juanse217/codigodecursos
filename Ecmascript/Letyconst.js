@@ -35,4 +35,27 @@ console.log(name, age);
 let team1 = ['oscar', 'josé', 'pibardo'];
 let team2 = ['culona', 'felipa', 'andrea'];
 
-let education = ['David', ]
+let education = ['David', ...team1, ...team2];
+
+console.log(education);
+
+//let y const 
+{
+var globar = "global var"
+}
+
+
+{
+    let globallet = "Globarl let"
+    console.log(globallet);
+}
+
+console.log(globar);
+console.log(globallet);
+
+//const
+
+const a = "b";
+
+a = "a"; 
+console.log(a);
