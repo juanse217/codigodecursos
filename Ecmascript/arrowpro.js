@@ -49,6 +49,5 @@ const helloPromise = ()=>{
 }
 
 helloPromise()
-    .then(resonse => console.log(response));
-    .then(()=> console.log('hola'))
+    .then(response => console.log(response))
     .catch(error => console.log(error)); 
